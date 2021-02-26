@@ -79,7 +79,6 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
             resetChallenge,
             experienceToNextLevel,
             completedChallenge,
-
         }}>
             { children}
         </ChallengesContext.Provider>
