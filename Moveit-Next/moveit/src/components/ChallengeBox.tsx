@@ -44,7 +44,7 @@ export function ChallengeBox() {
                         <button
                             type="button"
                             className={styles.challengeSucceededButton}
-                            onClick={handleChallengeFailed}
+                            onClick={handleChallengeSuceceeded}
                         >
                             Completei
                         </button>
